@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndureNet.Example", "EndureNet.Example\EndureNet.Example.csproj", "{BB7C2A20-AF53-4B79-8A24-1E7482015472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndureNet.Lib", "EndureNet.Lib\EndureNet.Lib.csproj", "{E397397E-EFA3-4673-8744-823C81828753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndureNet.Tests", "EndureNet.Tests\EndureNet.Tests.csproj", "{463BFF21-F2FA-43F7-9D24-E303F8AFC327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7C2A20-AF53-4B79-8A24-1E7482015472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7C2A20-AF53-4B79-8A24-1E7482015472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7C2A20-AF53-4B79-8A24-1E7482015472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7C2A20-AF53-4B79-8A24-1E7482015472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E397397E-EFA3-4673-8744-823C81828753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E397397E-EFA3-4673-8744-823C81828753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E397397E-EFA3-4673-8744-823C81828753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E397397E-EFA3-4673-8744-823C81828753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463BFF21-F2FA-43F7-9D24-E303F8AFC327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463BFF21-F2FA-43F7-9D24-E303F8AFC327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463BFF21-F2FA-43F7-9D24-E303F8AFC327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463BFF21-F2FA-43F7-9D24-E303F8AFC327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
